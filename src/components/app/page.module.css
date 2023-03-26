@@ -131,12 +131,12 @@
 } */
 
 /* Conic Gradient Animation */
-.thirteen::before {
+/* .thirteen::before {
   animation: 6s rotate linear infinite;
   width: 200%;
   height: 200%;
   background: var(--tile-border);
-}
+} */
 
 /* Inner Square */
 .thirteen::after {
