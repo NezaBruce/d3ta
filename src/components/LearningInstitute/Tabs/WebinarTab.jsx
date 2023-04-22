@@ -1,17 +1,17 @@
-import React from "react";
-import WebinarListing from "../../PeerProducers/Webinar/WebinarListing";
+// import React from "react";
+// import WebinarListing from "../../PeerProducers/Webinar/WebinarListing";
 
-function WebinarTab({ instituteId, accordion }) {
-  return (
-    <>
-      <WebinarListing
-        instituteId={instituteId}
-        virtualEventType="webinar"
-        roleType="learning-institute"
-        accordion={accordion}
-      />
-    </>
-  );
-}
+// function WebinarTab({ instituteId, accordion }) {
+//   return (
+//     <>
+//       <WebinarListing
+//         instituteId={instituteId}
+//         virtualEventType="webinar"
+//         roleType="learning-institute"
+//         accordion={accordion}
+//       />
+//     </>
+//   );
+// }
 
-export default WebinarTab;
+// export default WebinarTab;
